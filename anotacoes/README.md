@@ -1,0 +1,1 @@
+- Essa pasta contém todas as anotações feitas durante as monitorias.
